@@ -1,0 +1,31 @@
+#timeCounter{
+    width:100px;
+    padding:50px;
+    margin:00px auto;
+    border-radius:10px;
+    font-weight: bold;
+    color: #DAA3A3;
+  }
+
+  .counterNumber{
+    font-size: 50px;
+    font-weight: bold;
+    color: #a3bad8;
+  }
+
+  .squarePress{
+    width:100px;
+    height:40px;
+    border:solid;
+    font-weight: bold;
+    color: #DAA3A3;
+  }
+
+  .squareReset{
+    width:100px;
+    height:40px;
+    border:solid;
+    font-weight: bold;
+    color: #DAA3A3;
+    display: center;
+  }
